@@ -1,8 +1,7 @@
 # Tutorial: Causal Inference for Startup Hiring
 
 > **Learning Goal:** By the end of this tutorial, you will understand how to estimate causal effects using Propensity Score Matching and Difference-in-Differences, and apply these methods to real-world business questions.
-
-**Estimated Time:** 3-4 hours  
+  
 **Prerequisites:** Basic Python, statistics (regression, hypothesis testing), pandas/numpy  
 **Difficulty:** Intermediate
 
