@@ -382,10 +382,13 @@ This project uses **simulated data** that mimics realistic patterns in startup f
 2. Collect LinkedIn company data via API or scraping
 3. Match and clean company records across sources
 
+```
 ### AI Tools Used
 Image generation: ARTA, Gemini Veo
 Video generation: Google Flow, Gemini Veo
 Video editing: iMovie, Capcut
 Voice over: Elevenlabs
 Content: Claude.ai, ChatGPT
+
+```
 
