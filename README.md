@@ -1,5 +1,7 @@
 # Causal Inference for Startup Hiring: Does Funding Cause Hiring?
 
+**Video** - https://youtu.be/w-EiBWECMQ4
+
 **Teaching Causal Inference Through Real-World Immigration Policy Analysis**
 
 ##  Project Overview
